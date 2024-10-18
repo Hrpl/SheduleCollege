@@ -1,0 +1,17 @@
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.deps.json
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.runtimeconfig.json
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.pdb
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.genruntimeconfig.cache
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
