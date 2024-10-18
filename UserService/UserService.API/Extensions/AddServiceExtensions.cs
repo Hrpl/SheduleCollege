@@ -2,10 +2,11 @@
 using Mapster;
 using MapsterMapper;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.AspNetCore.Authentication.OAuth;
 using Microsoft.IdentityModel.Tokens;
 using System.Reflection;
 using System.Text;
+using UserService.Infrastructure.Services.Implementaions;
+using UserService.Infrastructure.Services.Interfaces;
 using IMapper = MapsterMapper.IMapper;
 
 namespace UserService.API.Extensions;
@@ -56,8 +57,8 @@ public static class AddServiceExtensions
         services.AddSwaggerDocument();
     }
 
-
     public static void AddRegisterService(this IServiceCollection services)
     {
+        services.AddScoped<IUserService, UserService>();
     } 
 }

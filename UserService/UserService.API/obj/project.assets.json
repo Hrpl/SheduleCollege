@@ -5917,6 +5917,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 8.0.10",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.19.6",
       "Swashbuckle.AspNetCore >= 6.4.0",
+      "UserService.Domain >= 1.0.0",
       "UserService.Infrastructure >= 1.0.0"
     ]
   },
@@ -5953,6 +5954,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Domain\\UserService.Domain.csproj": {
+              "projectPath": "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Domain\\UserService.Domain.csproj"
+            },
             "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Infrastructure\\UserService.Infrastructure.csproj": {
               "projectPath": "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Infrastructure\\UserService.Infrastructure.csproj"
             }

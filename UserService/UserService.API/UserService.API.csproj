@@ -23,10 +23,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Enpoints\User\" />
+    <Folder Include="Enpoints\Auth\Login\" />
+    <Folder Include="Enpoints\Auth\Logout\" />
+    <Folder Include="Enpoints\Auth\Refresh\" />
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\UserService.Domain\UserService.Domain.csproj" />
     <ProjectReference Include="..\UserService.Infrastructure\UserService.Infrastructure.csproj" />
   </ItemGroup>
 

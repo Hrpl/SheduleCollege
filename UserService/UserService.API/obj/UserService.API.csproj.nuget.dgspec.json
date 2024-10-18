@@ -33,6 +33,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Domain\\UserService.Domain.csproj": {
+                "projectPath": "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Domain\\UserService.Domain.csproj"
+              },
               "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Infrastructure\\UserService.Infrastructure.csproj": {
                 "projectPath": "C:\\Users\\Денис\\Desktop\\SheduleCollege\\UserService\\UserService.Infrastructure\\UserService.Infrastructure.csproj"
               }
