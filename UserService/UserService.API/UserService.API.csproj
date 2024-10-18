@@ -23,7 +23,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Enpoints\Auth\Login\" />
     <Folder Include="Enpoints\Auth\Logout\" />
     <Folder Include="Enpoints\Auth\Refresh\" />
   </ItemGroup>

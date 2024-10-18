@@ -15,3 +15,4 @@ C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructur
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.genruntimeconfig.cache
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.sourcelink.json

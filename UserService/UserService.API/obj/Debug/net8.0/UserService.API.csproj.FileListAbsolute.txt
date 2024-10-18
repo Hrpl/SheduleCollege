@@ -145,3 +145,7 @@ C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\bin\Debug
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\bin\Debug\net8.0\UserService.Infrastructure.dll
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\bin\Debug\net8.0\UserService.Infrastructure.pdb
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\bin\Debug\net8.0\UserService.Domain.pdb
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\obj\Debug\net8.0\UserService.API.sourcelink.json
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\bin\Debug\net8.0\Dapper.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\bin\Debug\net8.0\SqlKata.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.API\bin\Debug\net8.0\SqlKata.Execution.dll

@@ -5,9 +5,10 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Reflection;
 using System.Text;
-using UserService.Infrastructure.Services.Implementaions;
+using UserService.Infrastructure.Repositories.Implementations;
+using UserService.Infrastructure.Repositories.Interfaces;
+using UserService.Infrastructure.Services.Implementations;
 using UserService.Infrastructure.Services.Interfaces;
-using IMapper = MapsterMapper.IMapper;
 
 namespace UserService.API.Extensions;
 
@@ -59,6 +60,9 @@ public static class AddServiceExtensions
 
     public static void AddRegisterService(this IServiceCollection services)
     {
-        services.AddScoped<IUserService, UserService>();
+        services.AddScoped<IJwtHelper, JwtHelper>();
+        services.AddScoped<IJwtService, JwtService>();
+        services.AddScoped<IDbConnectionManager, DbConnectionManager>();
+        services.AddScoped<IAsyncRepository, AsyncRepository>();
     } 
 }

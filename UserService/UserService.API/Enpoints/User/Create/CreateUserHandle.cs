@@ -2,6 +2,6 @@
 
 namespace UserService.API.Enpoints.User.Create;
 
-public class CreateUserHandle : Endpoint<>
+public class CreateUserHandle
 {
 }

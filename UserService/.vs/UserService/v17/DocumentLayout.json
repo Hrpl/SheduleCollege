@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|c:\\users\\\u0434\u0435\u043D\u0438\u0441\\desktop\\shedulecollege\\userservice\\userservice.api\\extensions\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\extensions\\dbextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|c:\\users\\\u0434\u0435\u043D\u0438\u0441\\desktop\\shedulecollege\\userservice\\userservice.api\\extensions\\addserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\extensions\\addserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B54843D-731D-42A0-A824-7951F82E615E}|UserService.Infrastructure\\UserService.Infrastructure.csproj|c:\\users\\\u0434\u0435\u043D\u0438\u0441\\desktop\\shedulecollege\\userservice\\userservice.infrastructure\\services\\implementaions\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B54843D-731D-42A0-A824-7951F82E615E}|UserService.Infrastructure\\UserService.Infrastructure.csproj|solutionrelative:userservice.infrastructure\\services\\implementaions\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|c:\\users\\\u0434\u0435\u043D\u0438\u0441\\desktop\\shedulecollege\\userservice\\userservice.api\\enpoints\\user\\create\\createuserhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\enpoints\\user\\create\\createuserhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|c:\\users\\\u0434\u0435\u043D\u0438\u0441\\desktop\\shedulecollege\\userservice\\userservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{779E6D1C-C84B-4941-A2B1-76B1D36539AB}|UserService.API\\UserService.API.csproj|solutionrelative:userservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,47 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 390,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AddServiceExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Extensions\\AddServiceExtensions.cs",
-              "RelativeDocumentMoniker": "UserService.API\\Extensions\\AddServiceExtensions.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Extensions\\AddServiceExtensions.cs",
-              "RelativeToolTip": "UserService.API\\Extensions\\AddServiceExtensions.cs",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAowD0AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T14:01:00.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CreateUserHandle.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Enpoints\\User\\Create\\CreateUserHandle.cs",
-              "RelativeDocumentMoniker": "UserService.API\\Enpoints\\User\\Create\\CreateUserHandle.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Enpoints\\User\\Create\\CreateUserHandle.cs",
-              "RelativeToolTip": "UserService.API\\Enpoints\\User\\Create\\CreateUserHandle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:54:27.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.Infrastructure\\Services\\Implementaions\\UserService.cs",
-              "RelativeDocumentMoniker": "UserService.Infrastructure\\Services\\Implementaions\\UserService.cs",
-              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.Infrastructure\\Services\\Implementaions\\UserService.cs",
-              "RelativeToolTip": "UserService.Infrastructure\\Services\\Implementaions\\UserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-18T13:17:42.542Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -70,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Extensions\\DbExtensions.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Extensions\\DbExtensions.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Extensions\\DbExtensions.cs",
+              "RelativeToolTip": "UserService.API\\Extensions\\DbExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:31:56.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Extensions\\AddServiceExtensions.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Extensions\\AddServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Extensions\\AddServiceExtensions.cs",
+              "RelativeToolTip": "UserService.API\\Extensions\\AddServiceExtensions.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:27:00.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Program.cs",
+              "RelativeDocumentMoniker": "UserService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0414\u0435\u043D\u0438\u0441\\Desktop\\SheduleCollege\\UserService\\UserService.API\\Program.cs",
+              "RelativeToolTip": "UserService.API\\Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwC4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T17:19:46.494Z",
+              "EditorCaption": ""
             }
           ]
         }

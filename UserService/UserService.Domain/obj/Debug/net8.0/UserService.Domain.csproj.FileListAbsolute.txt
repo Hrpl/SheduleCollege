@@ -10,3 +10,4 @@ C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Domain\obj\De
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Domain\obj\Debug\net8.0\refint\UserService.Domain.dll
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.pdb
 C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Domain\obj\Debug\net8.0\ref\UserService.Domain.dll
+C:\Users\Денис\Desktop\SheduleCollege\UserService\UserService.Domain\obj\Debug\net8.0\UserService.Domain.sourcelink.json

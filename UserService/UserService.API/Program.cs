@@ -1,4 +1,8 @@
+using FastEndpoints;
+using FastEndpoints.Swagger;
 using Microsoft.EntityFrameworkCore;
+using System.Text.Json;
+using System.Text.Json.Serialization;
 using UserService.API.Extensions;
 using UserService.Infrastructure.Context;
 
@@ -13,20 +17,34 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddService();
+builder.Services.AddCors();
 
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.UseSwagger();
-    app.UseSwaggerUI();
-}
-
+app.UseRouting();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseAuthentication();
 app.UseAuthorization();
+
+
+app.UseCors(x => x
+    .AllowAnyMethod()
+    .AllowAnyHeader()
+    .AllowAnyOrigin());
+
+app.UseEndpoints(m => m.MapControllers());
+
+app.UseFastEndpoints(conf =>
+{
+    conf.Serializer.Options.Converters.Add(new JsonStringEnumConverter());
+    conf.Serializer.Options.PropertyNamingPolicy = JsonNamingPolicy.CamelCase;
+    conf.Endpoints.RoutePrefix = "api";
+    conf.Endpoints.ShortNames = true;
+});
+app.UseOpenApi();
+app.UseSwaggerUi(c => c.ConfigureDefaults());
 
 app.MapControllers();
 

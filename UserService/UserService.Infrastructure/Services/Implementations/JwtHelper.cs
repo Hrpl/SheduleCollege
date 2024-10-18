@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using UserService.Domain.Commons.Response;
 using UserService.Infrastructure.Services.Interfaces;
 
-namespace UserService.Infrastructure.Services.Implementaions;
+namespace UserService.Infrastructure.Services.Implementations;
 
 public class JwtHelper : IJwtHelper
 {

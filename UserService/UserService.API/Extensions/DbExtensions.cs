@@ -12,8 +12,12 @@ public static class DbExtensions
     {
         builder.Services.AddDbContext<ApplicationDbContext>(options =>
         options.UseNpgsql(
-            builder.Configuration.GetConnectionString("DefaultConnection"),
+            builder.Configuration["ConnectionString:DefaultConnection"],
             o => o.UseQuerySplittingBehavior(QuerySplittingBehavior.SplitQuery)
         ));
+
+        builder.Services.AddIdentityCore<AppUser>()
+        .AddRoles<AppRole>()
+        .AddEntityFrameworkStores<ApplicationDbContext>().AddDefaultTokenProviders();
     }
 }
